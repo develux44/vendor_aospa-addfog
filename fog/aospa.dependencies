@@ -13,7 +13,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "develux44/android_device_xiaomi_sm6225-common-aospa",
+        "repository":   "develux44/device_xiaomi_sm6225-common-aospa",
         "target_path":  "device/xiaomi/sm6225-common",
         "revision":     "topaz-dev"
     },
