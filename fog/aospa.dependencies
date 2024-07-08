@@ -7,27 +7,38 @@
     },
     {
         "remote":       "github",
+        "repository":   "develux44/vendor_xiaomi_fog-aospa",
+        "target_path":  "vendor/xiaomi/fog",
+        "revision":     "main",
+        "clone-depth":  "1"
+    },
+    {
+        "remote":       "github",
         "repository":   "ardia-kun/sdm660-kimhime-kernul",
         "target_path":  "kernel/xiaomi/fog",
-        "revision":     "fog-non-ksu"
+        "revision":     "fog-non-ksu",
+        "clone-depth":  "1"
     },
     {
         "remote":       "github",
         "repository":   "develux44/device_xiaomi_sm6225-common-aospa",
         "target_path":  "device/xiaomi/sm6225-common",
-        "revision":     "topaz-dev"
+        "revision":     "topaz-dev",
+        "clone-depth":  "1"
     },
     {
         "remote":       "aospa",
         "repository":   "AOSPA/android_device_xiaomi_sm6225-common-miuicamera",
         "target_path":  "device/xiaomi/sm6225-common-miuicamera",
-        "revision":     "topaz"
+        "revision":     "topaz",
+        "clone-depth":  "1"
     },
     {
         "remote":       "github",
         "repository":   "CHRISL7/device_xiaomi_fog-kernel",
         "target_path":  "device/xiaomi/fog-kernel",
-        "revision":     "topaz"
+        "revision":     "topaz",
+        "clone-depth":  "1"
     },
     {
         "remote":       "github",
@@ -47,48 +58,56 @@
         "remote":       "aospa",
         "repository":   "AOSPA/android_hardware_qcom_audio",
         "target_path":  "vendor/qcom/opensource/audio-hal/primary-hal",
-        "revision":     "topaz-bengal"
+        "revision":     "topaz-bengal",
+        "clone-depth":  "1"
     },
     {
         "remote":       "aospa",
         "repository":   "AOSPA/android_hardware_qcom_display",
         "target_path":  "hardware/qcom/display",
-        "revision":     "topaz-865"
+        "revision":     "topaz-865",
+        "clone-depth":  "1"
     },
     {
         "remote":       "aospa",
         "repository":   "AOSPA/android_hardware_qcom_gps",
         "target_path":  "hardware/qcom/gps",
-        "revision":     "topaz-865"
+        "revision":     "topaz-865",
+        "clone-depth":  "1"
     },
     {
         "remote":       "aospa",
         "repository":   "AOSPA/android_hardware_qcom_media",
         "target_path":  "hardware/qcom/media",
-        "revision":     "topaz-865"
+        "revision":     "topaz-865",
+        "clone-depth":  "1"
     },
     {
         "remote":       "aospa",
         "repository":   "AOSPA/android_hardware_xiaomi",
         "target_path":  "hardware/xiaomi",
-        "revision":     "topaz"
+        "revision":     "topaz",
+        "clone-depth":  "1"
     },
     {
         "remote":       "aospa",
         "repository":   "AOSPA/android_vendor_nxp_opensource_halimpl",
         "target_path":  "vendor/nxp/opensource/halimpl",
-        "revision":     "topaz-pn5xx"
+        "revision":     "topaz-pn5xx",
+        "clone-depth":  "1"
     },
     {
         "remote":       "aospa",
         "repository":   "AOSPA/android_vendor_nxp_opensource_hidlimpl",
         "target_path":  "vendor/nxp/opensource/hidlimpl",
-        "revision":     "topaz-pn5xx"
+        "revision":     "topaz-pn5xx",
+        "clone-depth":  "1"
     },
     {
         "remote":       "aospa",
         "repository":   "AOSPA/android_device_xiaomi_sepolicy",
         "target_path":  "device/xiaomi/sepolicy",
-        "revision":     "topaz"
+        "revision":     "topaz",
+        "clone-depth":  "1"
     }
 ]
