@@ -14,13 +14,6 @@
     },
     {
         "remote":       "github",
-        "repository":   "ardia-kun/sdm660-kimhime-kernul",
-        "target_path":  "kernel/xiaomi/fog",
-        "revision":     "fog-non-ksu",
-        "clone-depth":  "1"
-    },
-    {
-        "remote":       "github",
         "repository":   "develux44/device_xiaomi_sm6225-common-aospa",
         "target_path":  "device/xiaomi/sm6225-common",
         "revision":     "topaz-dev",
@@ -35,7 +28,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "CHRISL7/device_xiaomi_fog-kernel",
+        "repository":   "develux44/device_xiaomi_fog-kernel",
         "target_path":  "device/xiaomi/fog-kernel",
         "revision":     "topaz",
         "clone-depth":  "1"
