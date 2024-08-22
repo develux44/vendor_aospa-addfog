@@ -15,13 +15,13 @@
         "remote":       "github",
         "repository":   "develux44/device_xiaomi_fog-kernel",
         "target_path":  "device/xiaomi/fog-kernel",
-        "revision":     "topaz"
+        "revision":     "uvite"
     },
     {
         "remote":       "github",
         "repository":   "develux44/vendor_xiaomi_fog",
         "target_path":  "vendor/xiaomi/fog",
-        "revision":     "main"
+        "revision":     "uvite"
     },
     {
         "remote":       "blobs",
