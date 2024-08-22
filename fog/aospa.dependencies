@@ -21,8 +21,7 @@
         "remote":       "github",
         "repository":   "develux44/vendor_xiaomi_fog",
         "target_path":  "vendor/xiaomi/fog",
-        "revision":     "main",
-        "clone-depth":  "1"
+        "revision":     "main"
     },
     {
         "remote":       "blobs",
@@ -78,12 +77,5 @@
         "repository":   "AOSPA/android_device_xiaomi_sepolicy",
         "target_path":  "device/xiaomi/sepolicy",
         "revision":     "uvite"
-    },
-    {
-        "remote":       "blobs-gitlab",
-        "repository":   "proprietary_vendor_xiaomi_camera",
-        "target_path":  "vendor/xiaomi/camera",
-        "revision":     "uvite-sm6225",
-        "clone-depth":  "1"
     }
 ]
