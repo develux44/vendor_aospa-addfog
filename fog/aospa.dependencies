@@ -13,7 +13,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "CHRISL7/device_xiaomi_fog-kernel",
+        "repository":   "develux44/device_xiaomi_fog-kernel",
         "target_path":  "device/xiaomi/fog-kernel",
         "revision":     "topaz"
     },
